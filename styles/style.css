@@ -1,0 +1,14 @@
+*{
+
+}
+.box{
+    width: 400px;
+    height: 400px;
+    padding: 50px;
+    background-color: brown;
+    border-radius: 2px;
+    border: 50px dotted #0f0985;
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    background-origin: border-box;
+}
